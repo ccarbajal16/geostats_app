@@ -173,7 +173,7 @@ ui <- page_fluid(
                                 h4("How to Use", class = "text-success"),
                                 tags$ol(
                                     tags$li("Upload a CSV file with soil data (must include X and Y coordinate columns)"),
-                                    tags$li("Upload a spatial boundary file (shapefile, GeoJSON, or GeoPackage)"),
+                                    tags$li("Upload a spatial boundary file (GeoJSON, or GeoPackage)"),
                                     tags$li("Optionally upload a covariate raster for universal kriging"),
                                     tags$li("Select a soil property variable to analyze"),
                                     tags$li("Navigate through the tabs to explore different analyses"),
