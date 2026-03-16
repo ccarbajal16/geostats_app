@@ -8,6 +8,8 @@ A comprehensive R Shiny application for spatial soil data analysis, visualizatio
 
 This application provides a suite of tools for soil scientists, environmental researchers, agronomists, and GIS specialists who need to analyze and interpolate soil properties across landscapes. It combines powerful R packages for spatial data handling, geostatistical analysis, and visualization into an easy-to-use web interface.
 
+Now is available in Posit Connet Cloud: https://019c19fd-42a9-b889-e9fe-eeb6ebe136f1.share.connect.posit.cloud/
+
 ## Key Features
 
 - **Data Exploration**: Summary statistics, correlation analysis, and distribution plots
